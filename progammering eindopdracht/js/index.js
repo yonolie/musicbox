@@ -12,7 +12,7 @@ function switchicon() {
     }
     // Geluid afspelen wanneer er op de lamp wordt geklikt
     clickSound.play();
-    gap : 10 px
+    
 }
 
 lightBulb.addEventListener('click', switchicon);
